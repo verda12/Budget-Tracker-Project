@@ -71,7 +71,7 @@ Language: C
 Compiler: Dev-C++ / GCC / Code::Blocks
 
 Text files for data storage
-#🧠 Why This Project is Useful
+# 🧠 Why This Project is Useful
 
 * Helps understand real-world application development in C
 
